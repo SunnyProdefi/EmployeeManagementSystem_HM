@@ -1,0 +1,4 @@
+CompileFlags:
+  Add: 
+    - "-IG:/VS_Code_Document/EmployeeManagementSystem_HM/include"
+ 
